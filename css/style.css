@@ -1,0 +1,79 @@
+/* Code navbar  */
+
+.inline-block {
+    display: inline;
+    vertical-align: top;
+    }
+    
+    .logo {
+        width: 23%;
+        padding: 1%;
+        text-align: center;
+    }
+    
+    .navigation {
+        width: 73%;
+        padding: 1%;
+    }
+    
+    ul {
+        width: 50%;
+        margin-left: auto;
+        display: inline;
+        float: right;
+    }
+    
+li {
+    float: right;
+    padding: 10px;
+    display: inline-block;
+
+}
+    /* ------- MY WORK-------  */
+.myWork {
+
+
+}
+
+/*
+.workGrid {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+
+}
+*/ 
+
+
+.myWork {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 40px;
+   
+    padding: 5px;
+
+}
+
+.homepageButton {
+    background-color: black;
+    color:white;
+    padding: 15px;
+    border-style: hidden;
+}
+
+footer {
+    background-color: white;
+    margin-top: 60px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.mySkills {
+   margin: 40px;
+}
